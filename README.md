@@ -146,15 +146,15 @@
         <a href="https://www.facebook.com/profile.php?id=61575839585445" target="_blank">Facebook</a>
         <a href="mailto:alhabsyaja1@gmail.com">Email</a>
       </div>
-    </section>
+    </section><section id="wa-channel">
+  <h2>🔥 Gabung Saluran WhatsApp</h2>
+  <p>Dapatkan konten eksklusif seputar striker, update terbaru, dan promo jersey langsung dari HP lo!</p>
+  <a href="https://whatsapp.com/channel/0029VbATGDbLo4hgOyyhC813" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#25D366; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">👉 Gabung Sekarang!</a>
+</section>
+
   </main>
   <footer>
     &copy; 2025 Bintang Bola. Semua hak cipta dilindungi.
   </footer>
 </body>
 </html>
-<section id="wa-channel">
-  <h2>🔥 Gabung Saluran WhatsApp</h2>
-  <p>Dapatkan konten eksklusif seputar striker, update terbaru, dan promo jersey langsung dari HP lo!</p>
-  <a href="https://whatsapp.com/channel/0029VbATGDbLo4hgOyyhC813" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#25D366; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">👉 Gabung Sekarang!</a>
-</section>
