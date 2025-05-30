@@ -153,3 +153,8 @@
   </footer>
 </body>
 </html>
+<section id="wa-channel">
+  <h2>🔥 Gabung Saluran WhatsApp</h2>
+  <p>Dapatkan konten eksklusif seputar striker, update terbaru, dan promo jersey langsung dari HP lo!</p>
+  <a href="https://whatsapp.com/channel/0029VbATGDbLo4hgOyyhC813" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#25D366; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">👉 Gabung Sekarang!</a>
+</section>
